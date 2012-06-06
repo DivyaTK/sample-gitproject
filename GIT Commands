@@ -1,0 +1,20 @@
+
+
+
+git clone git@github.duncllc.com:achandra/Orbitz-Web-WL-Rail.git
+git status
+git add <>
+git status
+git commit -m 'gradle build file'
+git push origin master
+
+
+
+
+
+
+
+
+
+
+
